@@ -1,0 +1,8 @@
+interface:
+  display_name: "拆书教练"
+  short_description: "拆书、精学、复习并调用可追溯的书籍知识"
+  brand_color: "#345995"
+  default_prompt: "Use $book-learning-coach to teach me this book and preserve traceable progress."
+
+policy:
+  allow_implicit_invocation: true
