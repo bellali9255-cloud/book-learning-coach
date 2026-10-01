@@ -1,0 +1,26 @@
+# Local book content and runtime state
+books/
+workspaces/**
+.cache/
+**/.cache/
+**/source/original.*
+**/source/source.md
+**/learning/progress.json
+**/notes/reading-notes.md
+**/toolkit/*.md
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.tmp
+*.bak
+*.recovery.*
+
+# Keep synthetic test fixtures versioned
+!tests/fixtures/**
