@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "book_00000000",
+  "book": {
+    "title": "替换为书名",
+    "author": "",
+    "language": "zh-CN"
+  },
+  "source": {
+    "original_path": "source/original.ext",
+    "original_sha256": "",
+    "canonical_path": "source/source.md",
+    "canonical_sha256": "",
+    "converter": "",
+    "converter_version": ""
+  },
+  "learning_cursor": null,
+  "reading_cursor": null,
+  "last_invocation": {
+    "method_ids": [],
+    "at": ""
+  },
+  "reading_scope": {
+    "included_chapter_ids": ["ch_00000000"],
+    "excluded_chapter_ids": [],
+    "exclusion_reasons": {}
+  },
+  "reading_lens": {
+    "primary": "distillation",
+    "supporting": []
+  },
+  "chapters": {
+    "ch_00000000": {
+      "chapter_id": "ch_00000000",
+      "title": "替换为章节标题",
+      "display_order": 0,
+      "browse_status": "unseen",
+      "deep_read_status": "not_started",
+      "source_block_ids": ["src_00000000"]
+    }
+  },
+  "lessons": {},
+  "review_cards": {},
+  "audit": {
+    "chapters": {
+      "ch_00000000": {
+        "status": "not_started",
+        "audited_at": null,
+        "issues": []
+      }
+    },
+    "book_status": "not_started"
+  },
+  "updated_at": ""
+}
