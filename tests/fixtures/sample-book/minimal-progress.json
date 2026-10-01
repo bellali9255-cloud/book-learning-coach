@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "book_7f3a9c2d",
+  "book": {
+    "title": "合成示例书",
+    "author": "测试作者",
+    "language": "zh-CN"
+  },
+  "source": {
+    "original_path": "source/original.txt",
+    "original_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "canonical_path": "source/source.md",
+    "canonical_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "converter": "plain-text",
+    "converter_version": "1.0"
+  },
+  "learning_cursor": {
+    "mode": "intensive",
+    "chapter_id": "ch_a14e90b2",
+    "lesson_id": "lesson_83d712fa",
+    "phase": "feynman",
+    "last_completed_action": "explain_completed",
+    "updated_at": "2026-10-01T15:00:00+08:00"
+  },
+  "reading_cursor": {
+    "mode": "breakdown",
+    "chapter_id": "ch_a14e90b2",
+    "phase": "chapter_notes",
+    "last_completed_action": "chapter_read_completed",
+    "updated_at": "2026-10-01T14:00:00+08:00"
+  },
+  "last_invocation": {
+    "method_ids": [],
+    "at": ""
+  },
+  "reading_scope": {
+    "included_chapter_ids": ["ch_a14e90b2"],
+    "excluded_chapter_ids": [],
+    "exclusion_reasons": {}
+  },
+  "reading_lens": {
+    "primary": "distillation",
+    "supporting": ["scene-mapping"]
+  },
+  "chapters": {
+    "ch_a14e90b2": {
+      "chapter_id": "ch_a14e90b2",
+      "title": "第一章",
+      "display_order": 1,
+      "browse_status": "mapped",
+      "deep_read_status": "complete",
+      "source_block_ids": ["src_91ac73e2"]
+    }
+  },
+  "lessons": {
+    "lesson_83d712fa": {
+      "lesson_id": "lesson_83d712fa",
+      "chapter_id": "ch_a14e90b2",
+      "title": "核心概念",
+      "status": "mastered",
+      "mastery": 84,
+      "source_hashes": {
+        "original_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "canonical_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+      },
+      "unresolved_must_know": [],
+      "quiz_attempts": [
+        {
+          "attempt_id": "attempt_2c91f812",
+          "score": 84,
+          "must_know_passed": true,
+          "passed": true,
+          "at": "2026-10-01T14:30:00+08:00",
+          "items": [
+            {
+              "question_id": "q_62cb190e",
+              "rubric_points": [
+                {
+                  "point_id": "rp_7180ea5a",
+                  "points": 60,
+                  "earned_points": 60,
+                  "must_know": true,
+                  "passed": true
+                },
+                {
+                  "point_id": "rp_22222222",
+                  "points": 40,
+                  "earned_points": 24,
+                  "must_know": false,
+                  "passed": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "review_card_ids": ["review_6ea7b190"]
+    }
+  },
+  "review_cards": {
+    "review_6ea7b190": {
+      "review_card_id": "review_6ea7b190",
+      "lesson_id": "lesson_83d712fa",
+      "required": true,
+      "review_stage": 0,
+      "review_status": "scheduled",
+      "last_reviewed_at": null,
+      "next_due_at": "2026-10-02T15:00:00+08:00",
+      "source_hashes": {
+        "original_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "canonical_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+      },
+      "cycle_results": {}
+    }
+  },
+  "audit": {
+    "chapters": {
+      "ch_a14e90b2": {
+        "status": "not_started",
+        "audited_at": null,
+        "issues": []
+      }
+    },
+    "book_status": "not_started"
+  },
+  "updated_at": "2026-10-01T15:00:00+08:00"
+}
